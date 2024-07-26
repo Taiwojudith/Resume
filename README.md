@@ -17,7 +17,7 @@ With a solid foundation in business analysis and a keen eye for detail, I excel 
  •	Google Sheets	  •	Oracle Retail XBR  • Confluence  • Microsoft Word   •  Oracle Customer Engagement  • Visio
 			
 
-                                             PROFESSIONAL EXPERIENCE
+                                           PROFESSIONAL EXPERIENCE
 											 
 YM Inc. 
 
