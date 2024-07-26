@@ -65,7 +65,7 @@ Business Analyst                                                                
 •	Supported organizational change management and provided post-implementation support to resolve issues.
 
 
-                                        EDUCATION
+                                          EDUCATION
 Graduate Certificate, Information System Business Analysis	
 
 George Brown College, Toronto
