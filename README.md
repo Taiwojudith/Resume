@@ -1,20 +1,19 @@
-                                       Taiwo Judith Oyafajo / 647-451-3947 
-                                  Judith.aina@yahoo.com/ainataiwo1@gmail.com
-                                https://www.linkedin.com/in/taiwojudithoyafajo/
-			https://drive.google.com/drive/folders/1f0Z_hdAtGlWnq6KmyfQ9zZD9rTqKCFd2?usp=drive_link=
+                                    Taiwo Judith Oyafajo
+                               •647-451-3947 •Judith.aina@yahoo.com
+                         https://www.linkedin.com/in/taiwojudithoyafajo/
+                                https://github.com/Taiwojudith
 
 
-As an experienced IT Business Analyst with a passion for data analytics, I thrive on transforming complex data into actionable insights. I have upskilled through specialized training and developed a comprehensive portfolio, demonstrating my proficiency in data analytics. My expertise lies in leveraging analytical skills to drive business decisions and improve processes, with a particular interest in data visualization and creating compelling visual representations that effectively communicate data stories.  
 
-With a solid foundation in business analysis and a keen eye for detail, I excel at identifying trends, uncovering patterns, and presenting findings in a clear and impactful manner. My goal is to bridge the gap between data and decision-making, empowering businesses to harness the full potential of their data. I am eager to transition into the data analyst role, where I can apply my analytical expertise to drive strategic business outcome.
+IT Business Analyst with a passion for transforming complex data into compelling visual narratives. Experienced in requirements gathering, data visualization, and generating actionable business insights. Skilled in translating stakeholder needs into technical solutions while creating impactful dashboards that drive decision-making. Currently focused on advancing into Business Intelligence and Data Analytics, combining technical expertise with strategic business acumen to deliver data-driven solutions that impact bottom-line results. Dedicated to continuous learning in data analytics, visualization tools, and business intelligence platforms.
 
 
                                             TECHNICAL SKILLS
 
 
-•	SQL   •	Tableau   •	Microsoft Excel   •	Microsoft PowerPoint  •	Python	  •	A/B Testing   •	SAP   •	PowerBI
+•	SQL   •	Tableau   •	Microsoft Excel   •	Microsoft PowerPoint  •	Python	  •	A/B Testing   •	SAPBI   •	PowerBI
 
- •	Google Sheets	  •	Oracle Retail XBR  • Confluence  • Microsoft Word   •  Oracle Customer Engagement  • Visio
+ •	Google Sheets	  •	Oracle Retail XBR  • Confluence  • Microsoft Word   •  Oracle Customer Engagement  • Visio •R Studio
 			
 
                                            PROFESSIONAL EXPERIENCE
@@ -24,15 +23,16 @@ YM Inc.
 IT Business Analyst                                                                                                       Aug 2021 – Present
 
 
-•	Manage and handle large datasets effectively to support business objectives.
+•	Maintained clear, timely, and effective communication with project stakeholders to gather requirements and ensure alignment with business objectives.
 
-•	Query, extract, and transform raw data from multiple data warehouses for in-depth analysis of customer interactions across various channels.
+•	Conducted mini banner testing for Oracle database upgrades to ensure system integrity and performance.
 
-•	Conduct key insights and in-depth analysis to understand customer behavior and preferences.
+•	Created and generate reports in SAP Business Intelligence (SAP BI) for stakeholders while Maintaining report documentation, including functional specifications, user guides, and other materials to support various business processes and systems.
 
-•	Develop and maintain reporting dashboards to translate complex data into actionable insights, facilitating data-driven decision-making across the organization.
+•	Spearheaded the rewrite of the Credit Card Upload application, enhancing system performance, testing and reliability as well as providing first and second level support for end users to ensure minimal downtime and optimal performance.
 
-•	Identify and troubleshoot technical issues promptly with an entrepreneurial mindset.
+•	Translated data dictionaries provided by vendors into mappings for internal use, collaborated with relevant teams to troubleshoot and fix application-related problems, and applied advanced coverage analysisntechniques to maintain alignment between scope, detailed requirements, and testing.
+
 
 
 
@@ -66,13 +66,13 @@ Business Analyst                                                                
 
 
                                           EDUCATION
-Graduate Certificate, Information System Business Analysis	
+Masters Programme, Business Analytics & AI                  	                                          In-view
+Ontario Tech University
 
+Graduate Certificate, Information System Business Analysis	                                           2020
 George Brown College, Toronto
 
-
-
-Bachelor of Technology
-
+Bachelor of Technology                                                                                     2013
 Ladoke Akintola University of Technology 
+
 
