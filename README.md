@@ -19,7 +19,6 @@ IT Business Analyst with a passion for transforming complex data into compelling
                                            PROFESSIONAL EXPERIENCE
 											 
 YM Inc. 
-
 IT Business Analyst                                                                                                       Aug 2021 – Present
 
 
@@ -37,7 +36,6 @@ IT Business Analyst                                                             
 
 
 Teleperformance
-
 Business Intelligence Analyst                                                                                              Jul 2020 – Jul 2021      
 
 •	Conducted in-depth analysis of contact center performance metrics including call volume, average handle time, first call resolution, and customer satisfaction scores. 
@@ -52,7 +50,6 @@ Business Intelligence Analyst                                                   
 
 
 Fidelity Bank   
-
 Business Analyst                                                                                                        Apr 2018- Mar 2020
 •	Collaborated with key stakeholders to gather business requirements and translate them into actionable insights and recommendations. 
 
